@@ -1,0 +1,13 @@
+table{
+    width: 50%;
+    height: 50%;
+    border: 1px dashed black;
+    border-collapse: collapse;
+}
+table,tr,th,td {
+    border: 1px dashed black;
+}
+td{
+    padding: 10%;
+    text-align: center;
+}
